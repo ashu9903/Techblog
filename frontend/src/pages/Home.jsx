@@ -16,6 +16,7 @@ export default function Home() {
     <>
       {/* {JSON.stringify(blogs)} */}
       <div className="container">
+        {/* create blogs */}
         <div className="row">
           {blogs.map((item) => (
             <div className="col-sm-3" key={item.title}>
