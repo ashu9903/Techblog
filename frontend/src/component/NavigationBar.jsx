@@ -36,7 +36,7 @@ export default function NavigationBar() {
                   </Link>
                   <Link class="nav-link" to="/register">
                     Register
-                  </Link>     
+                  </Link>
                 </>
               )}
             </div>
