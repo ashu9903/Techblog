@@ -13,6 +13,7 @@ export default function Details() {
     setdata(blog);
   }, []);
   return (
+    // this is details page
     <>
       <div className="container">
         <div className="row">
