@@ -16,6 +16,7 @@ export default function Details() {
     <>
       <div className="container">
         <div className="row">
+          <h1>yyyyy</h1>
           <div className="col-sm-8 offset-sm-2">
             <div className="card">
               <img src={data.image} alt="" />
